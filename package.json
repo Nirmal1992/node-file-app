@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "author": {
+    "name": "Nirmal Jain"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
